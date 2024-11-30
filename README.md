@@ -41,7 +41,3 @@
 </div> <!--contact-->
 
 ##
-
-![Snake animation](https://github.com/nicolefemello/nicolefemello/blob/output/github-contribution-grid-snake.svg)
-
-[![README.md](http://github-readme-stats-verse1.app/api/pin/?username=nicolefemello&repo=nicolefemello&theme=react)](https://github.com/nicolefemello/nicolefemello)
