@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently working on Vue.js
 - 🌱 I’m currently learning Node.js
-- 😄 Pronouns: she/her
 <!--bio-->
 <br>    
 
