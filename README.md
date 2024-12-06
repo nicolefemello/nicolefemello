@@ -28,7 +28,7 @@
 ##
 
 <div> 
-  <a href ="malito:nicfmello@gmail.com">
+  <a href ="mailto:nicfmello@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/nicolefemello" target="_blank">
