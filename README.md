@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/nicolefemello">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=nicolefemello&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
@@ -19,11 +19,12 @@
 <br>    
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="workflows/src/html.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="workflows/src/css.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="workflows/src/javascript.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="workflows/src/vue.svg">
-</div> <!--tecnologias-->
+  <img alt="HTML" height="30" width="40" src="workflows/src/html.svg">
+  <img alt="CSS" height="30" width="40" src="workflows/src/css.svg">
+  <img alt="JavaScript" height="30" width="40" src="workflows/src/javascript.svg">
+  <img alt="Vue.js" height="30" width="40" src="workflows/src/vue.svg">
+  <img alt="Node.js" height="30" width="40" src="workflows/src/node.svg">
+  <div><!--tecnologias-->
 
 ##
 
