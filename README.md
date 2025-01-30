@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Nicole+Ferreira+Mello;I'm+15+years+old;I+am+from+Joinville,+SC;Be+Welcome!)](https://git.io/typing-svg) <!--typing-->
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Nicole+Ferreira+Mello;I'm+16+years+old;I+am+from+Joinville,+SC;Be+Welcome!)](https://git.io/typing-svg) <!--typing-->
 
 <br>
 
