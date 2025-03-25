@@ -14,7 +14,7 @@
 <br>
 
 - 🔭 I’m currently working on Vue.js
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning Node.js
 - ⚡️ I'm having first impressions with TypeScript
 <!--bio-->
 <br>    
@@ -25,7 +25,6 @@
   <img alt="JavaScript" height="30" width="40" src="workflows/src/javascript.svg">
   <img alt="Vue.js" height="30" width="40" src="workflows/src/vue.svg">
   <img alt="Node.js" height="30" width="40" src="workflows/src/node.svg">
-  <img alt="React" height="30" width="40" src="workflows/src/react.svg">
   <img alt="Tailwind" height="30" width="40" src="workflows/src/tailwind.svg">
   <img alt="TypeScript" height="30" width="40" src="workflows/src/typescript.svg">
   <div><!--tecnologias-->
