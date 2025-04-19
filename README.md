@@ -4,11 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=38&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Nicole+Ferreira+Mello;I'm+16+years+old;I+am+from+Joinville,+SC;Be+Welcome!)](https://git.io/typing-svg)
 
-<p align="center">Aqui você encontra ideias, códigos e um pouco da minha paixão por tecnologia 🚀</p>
-
 </section>
-
----
 
 <section id="stats">
 
@@ -20,7 +16,7 @@
 </p>
 </section>
 
----
+#
 
 <section id="about-me">
 
@@ -48,7 +44,7 @@
 
 </section>
 
----
+#
 
 <section id="contact">
 
@@ -67,7 +63,7 @@
 </div>
 </section>
 
----
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolefemello/nicolefemello/output/github-contribution-grid-snake-dark.svg">
