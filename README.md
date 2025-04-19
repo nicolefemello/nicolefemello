@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=38&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Nicole+Ferreira+Mello;I'm+16+years+old;I+am+from+Joinville,+SC;Be+Welcome!)](https://git.io/typing-svg)
 
-<p>Aqui você encontra ideias, códigos e um pouco da minha paixão por tecnologia 🚀</p>
+<p align="center">Aqui você encontra ideias, códigos e um pouco da minha paixão por tecnologia 🚀</p>
 
 </section>
 
@@ -70,7 +70,7 @@
 | -------------- | ------------------ | ------------------- |
 | <!--project--> | <!--description--> | <!--technologies--> |
 
-<p style="text-align: right; margin-top: 2vw">🧠 “Se você pode imaginar, você pode codar”</p>
+<p align="right" style="text-align: right; margin-top: 2vw">🧠 “Se você pode imaginar, você pode codar”</p>
   </div>
 
 </section>
@@ -81,7 +81,7 @@
 
 ### 🌐 Redes socias & Contato
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> 
   <a href ="mailto:nicfmello@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
