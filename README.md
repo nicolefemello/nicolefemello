@@ -10,6 +10,18 @@
 
 ---
 
+<section id="stats">
+
+### 📊 GitHub Stats
+
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolefemello&show_icons=true&theme=radical" height=200 />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolefemello&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/nicolefemello/nicolefemello"/>
+</p>
+</section>
+
+---
+
 <section id="about-me">
 
 ### 👩‍💻 Sobre mim
@@ -38,45 +50,6 @@
 
 ---
 
-<section id="stats">
-
-### 📊 GitHub Stats
-
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolefemello&show_icons=true&theme=radical" height=200 />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolefemello&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/nicolefemello/nicolefemello"/>
-</p>
-</section>
-
----
-
-<section id=certificates-projects style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
-
-<div>
-
-### 📜 Certificados
-
-| Curso         | Plataforma    | Conclusão   |
-| ------------- | ------------- | ----------- |
-| <!--course--> | <!--school--> | <!--year--> |
-
-</div>
-
-<div>
-
-### 📂 Projetos em Destaque
-
-| Projeto        | Descrição          | Tecnologias         |
-| -------------- | ------------------ | ------------------- |
-| <!--project--> | <!--description--> | <!--technologies--> |
-
-<p align="right" style="text-align: right; margin-top: 2vw">🧠 “Se você pode imaginar, você pode codar”</p>
-  </div>
-
-</section>
-
----
-
 <section id="contact">
 
 ### 🌐 Redes socias & Contato
@@ -93,12 +66,6 @@
   </a> 
 </div>
 </section>
-
----
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://github.com/nicolefemello/nicolefemello/raw/output/github-contribution-grid-snake.svg">
-</p>
 
 ---
 
