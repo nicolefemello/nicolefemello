@@ -7,10 +7,7 @@
 </section>
 
 <section id="stats">
-
-### 📊 GitHub Stats
-
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolefemello&show_icons=true&theme=radical" height=200 />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolefemello&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/nicolefemello/nicolefemello"/>
 </p>
